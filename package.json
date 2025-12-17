@@ -2,6 +2,7 @@
   "name": "is-buffer",
   "description": "Determine if an object is a Buffer",
   "version": "2.0.5",
+  "sideEffects": false,
   "author": {
     "name": "Feross Aboukhadijeh",
     "email": "feross@feross.org",
